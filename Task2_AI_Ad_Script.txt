@@ -1,0 +1,11 @@
+Task 2 – AI UGC Ad Script Generator
+Prompt Used:
+Act as a social media content creator. Generate a short and engaging user-generated style advertisement script for a food delivery mobile app called QuickBite. The tone should be friendly, energetic, and relatable for college students.
+AI Generated Output:
+Scene: A college student sitting in a hostel room feeling hungry at night.
+Script:
+"Hey everyone! You know those late-night hunger moments during study time? I recently started using QuickBite and it delivers my favourite meals really fast. The app is simple, convenient, and the food arrives hot and fresh. If you are a student like me, QuickBite is definitely worth trying!"
+Prompt Objective:
+The objective of this task is to create engaging promotional content using structured AI prompts for digital marketing and social media use.
+Learning Outcome:
+Through this task, I learned how proper audience targeting, tone clarity, and structured instructions help AI generate realistic and effective advertisement scripts.
