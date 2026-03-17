@@ -1,0 +1,18 @@
+Task 3 – AI SEO Blog Content Generator
+Prompt Used:
+Act as an SEO content writer. Write a simple and informative blog article on the topic “Benefits of Drinking Coffee for Productivity”. Include a clear title, introduction, key benefits, and a short conclusion. The tone should be informative and student-friendly.
+AI Generated Output:
+Title: Benefits of Drinking Coffee for Productivity
+Introduction:
+Coffee is one of the most popular beverages consumed worldwide. Many students and professionals prefer coffee during study or work sessions because it helps them stay active and focused.
+Key Benefits:
+• Improves concentration and mental alertness
+• Boosts energy levels during long study hours
+• Helps reduce tiredness and improves mood
+• Supports better work performance when consumed in moderation
+Conclusion:
+Drinking coffee in moderate amounts can support productivity and focus, especially for students and working individuals who need sustained energy throughout the day.
+Prompt Objective:
+The aim of this task is to generate structured SEO-friendly blog content using clear prompt instructions.
+Learning Outcome:
+Through this task, I understood how proper prompt design helps in creating organized, readable, and informative blog articles using AI tools.
