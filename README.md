@@ -1,2 +1,4 @@
-# FUTURE_PE_01
-This repository contains tasks completed during my Prompt Engineering Internship at Future Interns. It showcases practical use of structured AI prompts to create website copy, UGC ad scripts, and SEO blog content, highlighting my learning and hands-on experience in AI-driven content generation.
+Prompt Engineering Internship – Tasks
+This repository contains the tasks completed as part of my Prompt Engineering Internship at Future Interns. The work focuses on practical implementation of structured AI prompts to generate website content, advertising scripts, and other real-world digital solutions.
+The objective of this internship is to develop prompt design skills, improve creativity in AI-assisted content generation, and understand industry-oriented AI workflows.
+Each task file in this repository represents my learning progress and hands-on experience in applying artificial intelligence tools effectively.
