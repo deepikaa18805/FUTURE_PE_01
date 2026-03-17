@@ -1,0 +1,18 @@
+Task 1 – AI Website Copy Generator
+Prompt Used:
+Act as a professional website copywriter. Create website content for a local coffee shop named Brew Haven. Include homepage introduction, about section, services offered, and a call to action. The tone should be friendly and modern, targeting students and young professionals.
+AI Generated Output:
+Homepage Introduction:
+Welcome to Brew Haven Coffee Shop, a cozy and comfortable place where customers can enjoy freshly brewed premium coffee in a relaxing environment. It is the perfect spot for students and professionals to refresh, work, and socialize.
+About Us:
+Brew Haven focuses on delivering high-quality coffee made from carefully selected beans. We aim to create a warm and inviting atmosphere where customers can unwind and enjoy great taste along with excellent customer service.
+Services Offered:
+• Variety of hot and cold coffee beverages
+• Fresh snacks and bakery items
+• Free Wi-Fi and comfortable seating
+Call To Action:
+Visit Brew Haven today and experience the perfect blend of taste, comfort, and productivity.
+Prompt Objective:
+The objective of this prompt is to generate structured and engaging website content for a local business using clear instructions and defined content sections.
+Learning Outcome:
+Through this task, I understood how effective prompt design helps artificial intelligence tools generate relevant, organized, and user-friendly business content for practical applications.
